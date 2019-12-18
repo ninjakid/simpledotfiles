@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/script'
+let g:netrw_dirhist_0='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src'
+let g:netrw_dirhist_9='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/effect'
+let g:netrw_dirhist_8='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src'
+let g:netrw_dirhist_7='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/effect'
+let g:netrw_dirhist_6='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/lib'
+let g:netrw_dirhist_5='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src'
+let g:netrw_dirhist_4='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/lib'
+let g:netrw_dirhist_3='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src'
+let g:netrw_dirhist_2='/home/adit/projects/auditdoc-php/server/bootstrap/assets/js/app/src/effect'
